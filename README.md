@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MackElwes
+- 👀 I’m interested in Programming/Movies/Anime
+- 🌱 I’m currently learning js, ts and py
